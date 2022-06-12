@@ -1,4 +1,4 @@
-# DEMO
+# Learning Java 
 
-This is a README test.
+This repository is for educational purposes only. I will be adding new things I learn about Programming.
 
